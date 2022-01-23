@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vivekVells.VivekVellaiyappanProjectWorks)](https://github.com/vivekVells/VivekVellaiyappanProjectWorks) [![GitHub followers](https://img.shields.io/github/followers/vivekVells.svg?style=social&label=Follow)](https://github.com/vivekVells?tab=followers)
+
+
 <!--
 **vivekVells/vivekVells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
